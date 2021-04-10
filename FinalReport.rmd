@@ -154,3 +154,8 @@ fisherXY(GSS$RACE,GSS$BIGBANG)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+1. The Chi-squared test showed that the numbers for Blacks in false were highter than the rest.
+
+2. The 2x2 fisher tests showed the differences in belief in the big bang theory by race in blacks having a higher rate of false than white and other. 
+
